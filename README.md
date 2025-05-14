@@ -1,4 +1,4 @@
-<img src="/imagesLogo_Dourado.jpg" class="center" style="width:50%">
+<img src="/images/Logo_Dourado.jpg" class="center" style="width:50%">
 
 # PUBLICATIONS
 Publicações do EAILab, Laboratório de Inteligência Artificial Embarcada, IFSP campus Cubatão, Brasil
